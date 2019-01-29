@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.yandex.metrica.YandexMetrica.enableActivityAutoTracking(application)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
